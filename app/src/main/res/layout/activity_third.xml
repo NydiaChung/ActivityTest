@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <Button
+        android:id="@+id/button_31"
+        android:text="拨打电话界面"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/button_32"
+            android:text="直接拨打电话"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button_33"
+        android:text="GeoCoder显示地理位置"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button_34"
+        android:text="发送短信至10086"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button_35"
+        android:text="调用发邮件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button_36"
+        android:text="卸载"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
